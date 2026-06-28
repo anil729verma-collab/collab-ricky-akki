@@ -1,3 +1,3 @@
 variable "ricky" {
-  
+  type ="rajarani"
 }
